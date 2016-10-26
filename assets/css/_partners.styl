@@ -1,0 +1,23 @@
+.partners
+	background: $cream
+	ul
+		container()
+		padding: 2em 0
+		margin-top 0
+		text-align center
+		li
+			display: inline
+			list-style-type none
+			overflow auto
+			margin 0 0.5em
+			a
+				overflow: auto
+				text-decoration none
+				img
+					height: 5rem
+	+below(700px)
+		ul li 
+			display: block
+			margin-bottom: 1em
+			&:last-child
+				margin-bottom 0
