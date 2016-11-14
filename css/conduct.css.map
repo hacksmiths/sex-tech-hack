@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/css/conduct.styl"],"names":[],"mappings":"AAAA;EACC,mBAAA;;AAED;EACC,eAAA","sourcesContent":[".page-conduct *:last-child \n\tmargin-bottom 3em\n\t\n.page-conduct a \n\tcolor $maroon"]}

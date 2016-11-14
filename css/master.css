@@ -405,5 +405,29 @@ header .left h1 {
   color: #fff;
   margin-left: 1em;
 }
+.conduct {
+  background: #8d0b3b;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding: 1.5em 0;
+}
+.conduct p {
+  color: #fff;
+  margin-top: 0;
+}
+.conduct a {
+  background: -webkit-linear-gradient(top, #faf5f0, #f4e9de);
+  background: linear-gradient(to bottom, #faf5f0, #f4e9de);
+  color: #8d0b3b;
+  padding: 0.5em 1em;
+  margin: 0 0.5em;
+  border-radius: 0.25em;
+  text-decoration: none;
+  display: inline-block;
+  display: inline-block;
+}
+.conduct a:active {
+  background: #eeddcb;
+}
 
  /*# sourceMappingURL=master.css.map */
