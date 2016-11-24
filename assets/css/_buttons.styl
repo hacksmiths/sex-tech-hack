@@ -8,3 +8,6 @@ button($bg, $txt)
 	display: inline-block
 	&:active 
 		background: darken($bg, 10%)
+	&.disabled,
+	&.disabled:active
+		background darken($bg, 20%)
