@@ -272,6 +272,10 @@ h1.page-title {
 .hero ul.buttons li a:active {
   background: #eeddcb;
 }
+.hero ul.buttons li a.disabled,
+.hero ul.buttons li a.disabled:active {
+  background: #e1c4a7;
+}
 .partners {
   background: #faf5f0;
 }
@@ -329,6 +333,10 @@ h1.page-title {
 }
 .conduct a:active {
   background: #eeddcb;
+}
+.conduct a.disabled,
+.conduct a.disabled:active {
+  background: #e1c4a7;
 }
 .faq {
   margin-bottom: 2em;
@@ -398,6 +406,10 @@ h1.page-title {
 .conference a:active {
   background: #7f0a35;
 }
+.conference a.disabled,
+.conference a.disabled:active {
+  background: #71092f;
+}
 header {
   background: -webkit-linear-gradient(left, #371f38, #8d0b3b);
   background: linear-gradient(to right, #371f38, #8d0b3b);
@@ -443,6 +455,10 @@ header .left h1 {
 }
 .conduct a:active {
   background: #eeddcb;
+}
+.conduct a.disabled,
+.conduct a.disabled:active {
+  background: #e1c4a7;
 }
 
  /*# sourceMappingURL=master.css.map */
