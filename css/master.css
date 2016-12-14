@@ -284,15 +284,16 @@ h1.page-title {
   margin: 0 auto;
   display: block;
   padding: 0 2em;
-  padding: 2em 0;
+  padding: 2em 0 3em;
   margin-top: 0;
   text-align: center;
 }
 .partners ul li {
-  display: inline;
+  display: inline-block;
   list-style-type: none;
   overflow: auto;
   margin: 0 0.5em;
+  margin-top: 1em;
 }
 .partners ul li a {
   overflow: auto;
